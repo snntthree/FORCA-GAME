@@ -1,0 +1,11 @@
+/home/saulo/Development/C#/FORCA-GAME/bin/Debug/netcoreapp3.1/FORCA-GAME
+/home/saulo/Development/C#/FORCA-GAME/bin/Debug/netcoreapp3.1/FORCA-GAME.deps.json
+/home/saulo/Development/C#/FORCA-GAME/bin/Debug/netcoreapp3.1/FORCA-GAME.runtimeconfig.json
+/home/saulo/Development/C#/FORCA-GAME/bin/Debug/netcoreapp3.1/FORCA-GAME.runtimeconfig.dev.json
+/home/saulo/Development/C#/FORCA-GAME/bin/Debug/netcoreapp3.1/FORCA-GAME.dll
+/home/saulo/Development/C#/FORCA-GAME/bin/Debug/netcoreapp3.1/FORCA-GAME.pdb
+/home/saulo/Development/C#/FORCA-GAME/obj/Debug/netcoreapp3.1/FORCA-GAME.csprojAssemblyReference.cache
+/home/saulo/Development/C#/FORCA-GAME/obj/Debug/netcoreapp3.1/FORCA-GAME.AssemblyInfoInputs.cache
+/home/saulo/Development/C#/FORCA-GAME/obj/Debug/netcoreapp3.1/FORCA-GAME.AssemblyInfo.cs
+/home/saulo/Development/C#/FORCA-GAME/obj/Debug/netcoreapp3.1/FORCA-GAME.dll
+/home/saulo/Development/C#/FORCA-GAME/obj/Debug/netcoreapp3.1/FORCA-GAME.pdb
